@@ -131,7 +131,7 @@
   font-size: 24px;
   line-height: 34px;
   font-weight: normal;
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
 }
 
@@ -310,8 +310,6 @@
   flex-direction: row;
   width: 90%;
   margin: 0 auto;
-  display: flex;
-  flex-direction: row;
   justify-content: space-between;
   min-height: 250px;
   box-sizing: border-box;
