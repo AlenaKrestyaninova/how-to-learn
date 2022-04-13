@@ -3,9 +3,9 @@
     font-size: 18px;
     line-height: 30px;
     text-decoration: none;
+    transition: opacity .3s;
 }
 
 .footer__column-link:hover {
     opacity: .6;
-    transition: opacity .3s;
 }

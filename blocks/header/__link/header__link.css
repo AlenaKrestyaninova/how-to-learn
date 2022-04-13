@@ -5,9 +5,9 @@
     margin: 0;
     font-weight: normal;
     text-decoration: none;
+    transition: opacity .3s;
   }
 
   .header__link:hover {
     opacity: .6;
-    transition: opacity .3s;
   }
